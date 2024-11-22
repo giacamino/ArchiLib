@@ -1,13 +1,13 @@
 {
-    "name": "com.giacomino.archilib",
-    "version": "0.0.2",
+    "name": "com.giacamino.archilib",
+    "version": "1.0.0",
     "description": "自建库",
     "displayName": "archilib",
     "unity": "2019.4",
     "author": {
-      "name": "伽刚米诺",
+      "name": "伽咖米诺",
       "email": "2432094035@qq.com",
-      "url": "https://github.com/giacomino"
+      "url": "https://github.com/giacamino/ArchiLib"
     },
     "changelogUrl": "",
     "dependencies": {
@@ -15,7 +15,7 @@
     "documentationUrl": "",
     "hideInEditor": false,
     "keywords": [
-      "jackframe"
+      "giacamino"
     ],
     "license": "",
     "licensesUrl": "",
